@@ -727,7 +727,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 ::-webkit-scrollbar-track {
     background-color: transparent;
-    width: 20px !important;
 }
 
 ::-webkit-scrollbar-thumb {
